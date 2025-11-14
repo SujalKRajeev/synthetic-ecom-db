@@ -1,8 +1,3 @@
-Here is a **clean, professional, short & sweet README.md** based on the instructions shown in your event slide.
-
-You can copy-paste this directly into your repo.
-
----
 
 # 📦 Synthetic E-Commerce Database (SQLite)
 
@@ -119,9 +114,6 @@ python run_query.py
 * Designed following the **A-SDLC workflow**.
 * Demonstrates full pipeline: *Generate → Ingest → Query → Push to GitHub*.
 
----
-
-If you want, I can also create:
 
 ✅ A **better version with screenshots**
 ✅ A **roadmap diagram**
