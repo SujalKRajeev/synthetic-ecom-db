@@ -114,7 +114,3 @@ python run_query.py
 * Designed following the **A-SDLC workflow**.
 * Demonstrates full pipeline: *Generate → Ingest → Query → Push to GitHub*.
 
-
-✅ A **better version with screenshots**
-✅ A **roadmap diagram**
-✅ A **badges-style README** (like pro GitHub projects)
